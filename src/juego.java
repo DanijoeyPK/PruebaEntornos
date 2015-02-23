@@ -26,6 +26,7 @@ public class juego {
                 return true;
             } else {
                 System.out.println("Te has volado la cabeza... ");
+                System.out.println("Mentira!");
                 return true;
             }
         } else {
