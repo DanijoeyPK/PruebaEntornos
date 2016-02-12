@@ -1,9 +1,9 @@
-
 public class juego {
 
     int cargador = 0;
     int disparo = 0;
     int posiBala = 0;
+    int mario = 0;
 
     public boolean setBalas(int balas) {
         cargador = balas;
